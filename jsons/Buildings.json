@@ -19,10 +19,12 @@
         {
                 "name": "England Victory Timer",
                 "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [19] [FunctionE]> <after [20] turns>"]
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [14] [FunctionE]> <after [20] turns>"]
         },
         {
-                "name": "",
+                "name": "Russia Victory Timer",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <after [100] turns>"]
         },
         // システム
         {
