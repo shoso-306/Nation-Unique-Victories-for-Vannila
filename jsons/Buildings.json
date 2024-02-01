@@ -12,6 +12,16 @@
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [4] [CS]> <after [100] turns>"]
         },
         {
+                "name": "English Colony",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Provides [1] [FunctionE]"]
+        },
+        {
+                "name": "England Victory Timer",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [19] [FunctionE]> <after [20] turns>"]
+        },
+        {
                 "name": "",
         },
         // システム
