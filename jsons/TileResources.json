@@ -30,6 +30,16 @@
                 "uniques": ["Not shown on world screen","Cannot be traded"]
 	},
 	{
+		"name": "FunctionG",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+	},
+	{
+		"name": "FunctionGC",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+	},
+	{
 		"name": "CS",
 		"resourceType": "Strategic",
                 "uniques": ["Not shown on world screen","Cannot be traded"]
