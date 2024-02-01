@@ -1,0 +1,8 @@
+[
+        // 建設不可
+        {
+                "name": "Unbuildable",
+                "cost": 1000,
+                "uniques": ["Hidden when [Unique] Victory is disabled","Unbuildable"]
+        }
+]
