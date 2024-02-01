@@ -2,12 +2,14 @@
         // 勝利条件用の建物
         {
                 "name": "The Tower of Babel",
-                "isWonder": true,
+                "isNationalWonder": true,
                 "cost": 1500,
                 "uniques": ["Only available <for [Babylon]> <after discovering [Engineering]> <after generating a Great Prophet> <during a Golden Age>"]
         },
         {
-                "name": "",
+                "name": "Greece Challenge: Keep the 5 Ally CS for 100 turn!",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [4] [CS]> <after [100] turns>"]
         },
         {
                 "name": "",
