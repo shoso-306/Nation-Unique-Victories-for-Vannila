@@ -19,4 +19,9 @@
 		"resourceType": "Strategic",
                 "uniques": ["Not shown on world screen","Cannot be traded"]
         },
+	{
+		"name": "CS",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+	},
 ]
