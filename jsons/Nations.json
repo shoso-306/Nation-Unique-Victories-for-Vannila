@@ -313,8 +313,8 @@
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
 		"Unique Victory: Build 'Treaty on the Non-Proliferation of Nuclear Weapons' and keep peace during Atomic era. then, if your Amrica haven't Annexed City, you can build the 'USA, The Hero of History' for the Victory", // Issue: America can't keep peace in Multi player.Unless there is a strong deterrent force.
-		"Gain a free [America Condition Checker] [in capital] <starting from the [Atomic era]> <hidden from users>",
-		"Remove [America Condition Checker] [in capital] <when at war> <every [3] turns> <before the [Information era]>"]
+		"Gain a free [America Condition Checker] [in capital] <starting from the [Atomic era]> <if [UV Enable] is constructed by anybody> <hidden from users>",
+		"Remove [America Condition Checker] [in capital] <when at war> <every [3] turns> <if [UV Enable] is constructed by anybody> <before the [Information era]>"]
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -346,7 +346,7 @@
 		"uniqueName": "Bushido",
 		"uniques": ["Damage is ignored when determining unit Strength <for [non-[Air]] units>",
 		"Unique Victory: Reach the future without ever build Manhattan Project.",
-		""],
+		"Gain a free [Japan Condition Checker] [in capital] <after discovering [Atomic Theory]> <if [UV Enable] is constructed by anybody> <hidden from users>"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
@@ -376,7 +376,8 @@
 
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Population Growth",
-		"uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]",
+		"Unique Victory: Reach the future without ever build Manhattan Project."],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
@@ -403,7 +404,10 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"[-25]% maintenance costs <for [Land] units>"],
+			"[-25]% maintenance costs <for [Land] units>",
+		"Unique Victory: Declaring war at least 10 times, and 15 cities occupy within 50 Turns from Modern Era.",
+		"Gain a free [Germany Condition Checker] [in capital] <starting from the [Modern era]> <if [UV Enable] is constructed by anybody> <hidden from users>",
+		"Triggers victory <if [Germany Condition Success] is constructed> <when above [9] [FunctionD]> <hidden from users>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
