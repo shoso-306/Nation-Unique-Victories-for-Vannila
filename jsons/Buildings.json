@@ -26,6 +26,21 @@
                 "cost": 1,
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <after [100] turns>"]
         },
+        {
+                "name": "India Condition Checker",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <in cities with at least [35] [Population]> <when above [14] [FunctionG]>"]
+        },
+        {
+                "name": "Germany Condition Checker",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Gain a free [Germany Condition Success] [in capital] <when above [14] [FuntionGC]> <after [20] turns>"]
+        },
+        {
+                "name": "Germany Condition Success",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [9] [FuntionD]>"]
+        },
         // システム
         {
                 "name": "Unbuildable",
