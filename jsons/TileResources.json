@@ -1,0 +1,22 @@
+[
+        {
+                "name": "FunctionA",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+        },
+        {
+                "name": "FunctionI",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+        },
+        {
+                "name": "FunctionII",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+        },
+        {
+                "name": "FunctionW",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+        },
+]
