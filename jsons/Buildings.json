@@ -54,12 +54,12 @@
         {
                 "name": "Germany Condition Checker",
                 "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Gain a free [Germany Condition Success] [in capital] <when above [14] [FuntionGC]> <after [20] turns>"]
+                "uniques": ["Unbuildable","Unsellable","Gain a free [Germany Condition Success] [in capital] <when above [14] [FunctionGC]> <after [20] turns>"]
         },
         {
                 "name": "Germany Condition Success",
                 "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [9] [FuntionD]>"]
+                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [9] [FunctionD]>"]
         },
         // システム
         {
