@@ -1,7 +1,7 @@
 {
         "name": "Global uniques",
         "uniques": ["Gain a free [CorrectA] [in annexed cities]",
-        "Provides [1] [FunctionW] <upon constructing [World Wonder]>",
+        "Provides [1] [FunctionW] <upon constructing [World Wonder]>"]
         // "Provides [1] [FunctionI] <upon building a [Mine] improvement>",
-        // "Provides [1] [FunctionII] <upon building a [Lumber mill] improvement>"]
+        // "Provides [1] [FunctionII] <upon building a [Lumber mill] improvement>"
 }
