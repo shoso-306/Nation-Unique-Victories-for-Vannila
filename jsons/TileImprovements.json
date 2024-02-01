@@ -1,0 +1,20 @@
+[
+        {
+                "name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniques": ["Provides [1] [FunctionI] <hidden from users>","[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["Provides [1] [FunctionII] <hidden from users>","[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+        }
+]
