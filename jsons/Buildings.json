@@ -1,7 +1,10 @@
 [
         // 勝利条件用遺産
         {
-                "name": "",
+                "name": "The Tower of Babel",
+                "isWonder": true,
+                "cost": 1500,
+                "uniques": ["Only available <for [Babylon]> <after discovering [Engineering]> <after generating a Great Prophet> <during a Golden Age>"]
         },
         {
                 "name": "",
