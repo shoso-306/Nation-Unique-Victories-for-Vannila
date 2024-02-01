@@ -27,6 +27,11 @@
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <after [100] turns>"]
         },
         {
+                "name": "Japan Condition Checker",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Provides [1] [Logic1] <if [Manhattan Project] is constructed>","Triggers victory <starting from the [Future era]> <when below [Logic1] [1]>"]
+        },
+        {
                 "name": "India Condition Checker",
                 "cost": 1,
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <in cities with at least [35] [Population]> <when above [14] [FunctionG]>"]
