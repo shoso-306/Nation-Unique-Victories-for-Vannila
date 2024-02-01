@@ -155,7 +155,8 @@
 		"uniqueName": "Sun Never Sets",
 		"uniques": ["[+2] Movement <for [Water] units>",
 			    "Unique Victory: keep 15 Foreign Continent Cities for 20 turns",
-			    "Gain a free [English Colony] [in all cities] <on foreign continents> <if [UV Enable] is constructed by anybody> <hidden from users>"], // even can't won in pagaeaXd
+			    "Gain a free [English Colony] [in all cities] <on foreign continents> <if [UV Enable] is constructed by anybody> <hidden from users>",
+		"Gain a free [England Victory Timer] [in capital] <when above [14] [FunctionE]> <hidden from users>"], // even can't won in pagaeaXd
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
