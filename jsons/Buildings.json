@@ -3,8 +3,8 @@
         {
                 "name": "The Tower of Babel",
                 "isNationalWonder": true,
-                "cost": 1500,
-                "uniques": ["Only available <for [Babylon]> <after discovering [Engineering]> <after generating a Great Prophet> <during a Golden Age>"]
+                "cost": 1000,
+                "uniques": ["Hidden when [Unique] Victory is disabled","Only available <for [Babylon]> <after discovering [Engineering]> <after generating a Great Prophet> <during a Golden Age>"]
         },
         {
                 "name": "Greece Challenge: Keep the 5 Ally CS for 100 turn!",
@@ -25,6 +25,21 @@
                 "name": "Russia Victory Timer",
                 "cost": 1,
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <after [100] turns>"]
+        },
+        {
+                "name": "Treaty on the Non-Proliferation of Nuclear Weapons",
+                "cost": 1000,
+                "uniques": ["Only available <after discovering [Atomic Theory]>","Can only be built [in capital]","Cannot build [Atomic Bomber] units <before the [Information era]>","Cannot build [Missile] units <before the [Information era]>","Hidden when [Unique] Victory is disabled"],
+        },
+        {
+                "name": "America Condition Checker",
+                "cost": 1,
+                "uniques": ["Unbuildable","Unsellable"]
+        },
+        {
+                "name": "USA, The Hero of History",
+                "cost": 1000,
+                "uniques": ["Unbuildable","Unsellable","Hidden when [Unique] Victory is disabled","Only available <in cities with a [America Condition Checker]> <in cities with a [Treaty on the Non-Proliferation of Nuclear Weapons]>","Triggers victory"]
         },
         {
                 "name": "Japan Condition Checker",
