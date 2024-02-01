@@ -28,6 +28,6 @@
                 "name": "UV Enable",
                 "isWonder": true, // 遺産として数えられてしまうが、今のところこの方法しかなさそう
                 "cost": 1,
-                "uniques": ["Hidden when [Unique] Victory is disabled","Never destroyed when the city is captured","Only available <for [AI player]>"]
+                "uniques": ["[+1 Production] <for [1] turns>","Hidden when [Unique] Victory is disabled","Never destroyed when the city is captured","Only available <for [AI player]>"]
         },
 ]
