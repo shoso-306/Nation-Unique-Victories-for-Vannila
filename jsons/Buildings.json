@@ -44,7 +44,7 @@
         {
                 "name": "Japan Condition Checker",
                 "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Provides [1] [Logic1] <if [Manhattan Project] is constructed>","Triggers victory <starting from the [Future era]> <when below [Logic1] [1]>"]
+                "uniques": ["Unbuildable","Unsellable","Provides [1] [Logic1] <if [Manhattan Project] is constructed>","Triggers victory <starting from the [Future era]> <when below [1] [Logic1]>"]
         },
         {
                 "name": "India Condition Checker",
