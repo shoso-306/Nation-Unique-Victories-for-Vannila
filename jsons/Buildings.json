@@ -1,8 +1,24 @@
 [
-        // 建設不可
+        {
+                "name": "",
+        },
+        {
+                "name": "",
+        },
+        {
+                "name": "",
+        },
+        // システム
         {
                 "name": "Unbuildable",
                 "cost": 1000,
                 "uniques": ["Hidden when [Unique] Victory is disabled","Unbuildable"]
-        }
+        },
+        // 勝利条件確認時に媒介する建物
+        {
+                "name": "UV Enable",
+                "isWonder": true, // 遺産として数えられてしまうが、今のところこの方法しかなさそう
+                "cost": 1,
+                "uniques": ["Hidden when [Unique] Victory is disabled","Only available <for [AI player]>"]
+        },
 ]
