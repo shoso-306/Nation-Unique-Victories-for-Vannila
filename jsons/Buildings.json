@@ -1,5 +1,5 @@
 [
-        // 勝利条件用の遺産たち
+        // 勝利条件用の建物
         {
                 "name": "The Tower of Babel",
                 "isWonder": true,
