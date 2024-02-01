@@ -44,4 +44,9 @@
 		"resourceType": "Strategic",
                 "uniques": ["Not shown on world screen","Cannot be traded"]
 	},
+	{
+		"name": "Logic1",
+		"resourceType": "Strategic",
+                "uniques": ["Not shown on world screen","Cannot be traded"]
+	},
 ]
