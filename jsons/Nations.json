@@ -237,7 +237,6 @@
 
         "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
         "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
-
         "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
 		"defeated": "The gods have deprived Rome of their favour. We have been defeated.",
@@ -406,10 +405,15 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>",
-		"Unique Victory: Declaring war with major civ at least 10 times, and 15 cities occupy within 50 Turns from Modern Era.", //to be changed imo, -Bamboolord
-		"Gain a free [Germany Condition Checker] [in capital] <starting from the [Modern era]> <if [UV Enable] is constructed by anybody> <hidden from users>",
-		"Triggers victory <if [Germany Condition Success] is constructed> <when above [9] [FunctionD]> <hidden from users>",
-		"Provides [1] [FunctionGC] <starting from the [Modern era]> <upon conquering a city> <hidden from users>"],
+		"Unique Victory: Complete Tradition and build the 'Third Reich Program' and declaring a defensive pact 2 times. then, capture 15 city for victory",
+		"Gain a free [Germany Condition Checker] [in capital] <if [UV Enable] is constructed by anybody> <if [Third Reich Program] is constructed> <hidden from users>",
+		"Triggers victory <when above [1] [FunctionDP]> <when above [14] [FunctionGC]> <if [UV Enable] is constructed by anybody> <if [Third Reich Program] is constructed> <hidden from users>"
+			
+		// "Unique Victory: Declaring war with major civ at least 10 times, and 15 cities occupy within 50 Turns from Modern Era.", //to be changed imo, -Bamboolord
+		// "Gain a free [Germany Condition Checker] [in capital] <starting from the [Modern era]> <if [UV Enable] is constructed by anybody> <hidden from users>",
+		// "Triggers victory <if [Germany Condition Success] is constructed> <when above [9] [FunctionD]> <hidden from users>",
+		// "Provides [1] [FunctionGC] <starting from the [Modern era]> <upon conquering a city> <hidden from users>"
+		]
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
