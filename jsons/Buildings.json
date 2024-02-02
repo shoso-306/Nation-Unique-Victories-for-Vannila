@@ -52,15 +52,21 @@
                 "uniques": ["Unbuildable","Unsellable","Triggers victory <in cities with at least [35] [Population]> <when above [14] [FunctionG]>"]
         },
         {
-                "name": "Germany Condition Checker",
-                "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Gain a free [Germany Condition Success] [in capital] <when above [14] [FunctionGC]> <after [20] turns>"]
+                "name": "Third Reich Program",
+                "cost": 800,
+                "happiness": 5,
+                "uniques": ["Consumes [3] [CS]"]
         },
         {
-                "name": "Germany Condition Success",
+                "name": "Germany Condition Checker",
                 "cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [9] [FunctionD]>"]
+                "uniques": ["Unbuildable","Unsellable","Provides [1] [FunctionGC] <upon conquering a city>","Provides [1] [FunctionDP] <upon declaring a defensive pact>"]
         },
+        // {
+        //         "name": "Germany Condition Success",
+        //         "cost": 1,
+        //         "uniques": ["Unbuildable","Unsellable","Triggers victory <when above [9] [FunctionD]>"]
+        // },
         // システム
         {
                 "name": "Unbuildable",
